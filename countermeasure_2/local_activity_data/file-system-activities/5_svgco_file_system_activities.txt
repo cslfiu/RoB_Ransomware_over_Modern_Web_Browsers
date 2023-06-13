@@ -1,0 +1,55 @@
+/home/csl/Desktop/ndss_data/svgco/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ CREATE test.svg
+/home/csl/Desktop/ndss_data/svgco/ OPEN test.svg
+/home/csl/Desktop/ndss_data/svgco/ CLOSE_NOWRITE,CLOSE test.svg
+/home/csl/Desktop/ndss_data/svgco/ OPEN test.svg
+/home/csl/Desktop/ndss_data/svgco/ MODIFY test.svg
+/home/csl/Desktop/ndss_data/svgco/ CLOSE_WRITE,CLOSE test.svg
+/home/csl/Desktop/ndss_data/svgco/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ CREATE test.svg.crswap
+/home/csl/Desktop/ndss_data/svgco/ OPEN test.svg.crswap
+/home/csl/Desktop/ndss_data/svgco/ CLOSE_NOWRITE,CLOSE test.svg.crswap
+/home/csl/Desktop/ndss_data/svgco/ OPEN test.svg.crswap
+/home/csl/Desktop/ndss_data/svgco/ MODIFY test.svg.crswap
+/home/csl/Desktop/ndss_data/svgco/ MODIFY test.svg.crswap
+/home/csl/Desktop/ndss_data/svgco/ CLOSE_WRITE,CLOSE test.svg.crswap
+/home/csl/Desktop/ndss_data/svgco/ OPEN test.svg.crswap
+/home/csl/Desktop/ndss_data/svgco/ ACCESS test.svg.crswap
+/home/csl/Desktop/ndss_data/svgco/ ACCESS test.svg.crswap
+/home/csl/Desktop/ndss_data/svgco/ ACCESS test.svg.crswap
+/home/csl/Desktop/ndss_data/svgco/ ACCESS test.svg.crswap
+/home/csl/Desktop/ndss_data/svgco/ ACCESS test.svg.crswap
+/home/csl/Desktop/ndss_data/svgco/ CLOSE_NOWRITE,CLOSE test.svg.crswap
+/home/csl/Desktop/ndss_data/svgco/ OPEN test.svg.crswap
+/home/csl/Desktop/ndss_data/svgco/ CLOSE_NOWRITE,CLOSE test.svg.crswap
+/home/csl/Desktop/ndss_data/svgco/ OPEN test.svg.crswap
+/home/csl/Desktop/ndss_data/svgco/ ACCESS test.svg.crswap
+/home/csl/Desktop/ndss_data/svgco/ CLOSE_NOWRITE,CLOSE test.svg.crswap
+/home/csl/Desktop/ndss_data/svgco/ MOVED_FROM test.svg.crswap
+/home/csl/Desktop/ndss_data/svgco/ MOVED_TO test.svg
+/home/csl/Desktop/ndss_data/svgco/ ATTRIB test.svg
+/home/csl/Desktop/ndss_data/svgco/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/svgco/ CLOSE_NOWRITE,CLOSE,ISDIR 
+

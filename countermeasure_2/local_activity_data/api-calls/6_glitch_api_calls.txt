@@ -1,0 +1,15 @@
+getFile() test.png
+Write() test.png
+Write.Close() test.png
+getFile() test.png
+Write() test.png
+Write.Close() test.png
+getFile() test.png
+Write() test.png
+Write.Close() test.png
+getFile() test.png
+Write() test.png
+Write.Close() test.png
+getFile() test.png
+Write() test.png
+Write.Close() test.png

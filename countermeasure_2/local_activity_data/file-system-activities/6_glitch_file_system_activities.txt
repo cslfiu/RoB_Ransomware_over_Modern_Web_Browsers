@@ -1,0 +1,53 @@
+/home/csl/Desktop/ndss_data/glitch/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ OPEN download.png
+/home/csl/Desktop/ndss_data/glitch/ ACCESS download.png
+/home/csl/Desktop/ndss_data/glitch/ CLOSE_NOWRITE,CLOSE download.png
+/home/csl/Desktop/ndss_data/glitch/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ CREATE floppy.png
+/home/csl/Desktop/ndss_data/glitch/ OPEN floppy.png
+/home/csl/Desktop/ndss_data/glitch/ CLOSE_NOWRITE,CLOSE floppy.png
+/home/csl/Desktop/ndss_data/glitch/ OPEN floppy.png
+/home/csl/Desktop/ndss_data/glitch/ MODIFY floppy.png
+/home/csl/Desktop/ndss_data/glitch/ CLOSE_WRITE,CLOSE floppy.png
+/home/csl/Desktop/ndss_data/glitch/ CREATE floppy.png.crswap
+/home/csl/Desktop/ndss_data/glitch/ OPEN floppy.png.crswap
+/home/csl/Desktop/ndss_data/glitch/ CLOSE_NOWRITE,CLOSE floppy.png.crswap
+/home/csl/Desktop/ndss_data/glitch/ OPEN floppy.png.crswap
+/home/csl/Desktop/ndss_data/glitch/ MODIFY floppy.png.crswap
+/home/csl/Desktop/ndss_data/glitch/ CLOSE_WRITE,CLOSE floppy.png.crswap
+/home/csl/Desktop/ndss_data/glitch/ OPEN floppy.png.crswap
+/home/csl/Desktop/ndss_data/glitch/ ACCESS floppy.png.crswap
+/home/csl/Desktop/ndss_data/glitch/ CLOSE_NOWRITE,CLOSE floppy.png.crswap
+/home/csl/Desktop/ndss_data/glitch/ MOVED_FROM floppy.png.crswap
+/home/csl/Desktop/ndss_data/glitch/ MOVED_TO floppy.png
+/home/csl/Desktop/ndss_data/glitch/ ATTRIB floppy.png
+/home/csl/Desktop/ndss_data/glitch/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/glitch/ OPEN floppy.png
+/home/csl/Desktop/ndss_data/glitch/ ACCESS floppy.png
+/home/csl/Desktop/ndss_data/glitch/ ACCESS floppy.png
+/home/csl/Desktop/ndss_data/glitch/ CLOSE_NOWRITE,CLOSE floppy.png
+

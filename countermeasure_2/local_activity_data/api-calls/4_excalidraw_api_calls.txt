@@ -1,0 +1,15 @@
+getFile() test
+Write() test
+Write.Close() test
+getFile() test
+Write() test
+Write.Close() test
+getFile() test
+Write() test
+Write.Close() test
+getFile() test
+Write() test
+Write.Close() test
+getFile() test
+Write() test
+Write.Close() test

@@ -1,0 +1,15 @@
+getFile() test.py
+Write() test.py
+Write.Close() test.py.
+getFile() test.py
+Write() test.py
+Write.Close() test.py.
+getFile() test.py
+Write() test.py
+Write.Close() test.py.
+getFile() test.py
+Write() test.py
+Write.Close() test.py.
+getFile() test.py
+Write() test.py
+Write.Close() test.py.

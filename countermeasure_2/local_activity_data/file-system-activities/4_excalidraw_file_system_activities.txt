@@ -1,0 +1,60 @@
+/home/csl/Desktop/ndss_data/excalidraw/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/excalidraw/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/excalidraw/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/excalidraw/ OPEN Untitled-2022-11-07-1920.excalidraw
+/home/csl/Desktop/ndss_data/excalidraw/ ACCESS Untitled-2022-11-07-1920.excalidraw
+/home/csl/Desktop/ndss_data/excalidraw/ CLOSE_NOWRITE,CLOSE Untitled-2022-11-07-1920.excalidraw
+/home/csl/Desktop/ndss_data/excalidraw/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/excalidraw/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/excalidraw/ OPEN download.png
+/home/csl/Desktop/ndss_data/excalidraw/ ACCESS download.png
+/home/csl/Desktop/ndss_data/excalidraw/ CLOSE_NOWRITE,CLOSE download.png
+/home/csl/Desktop/ndss_data/excalidraw/ OPEN Untitled-2022-11-07-1920.excalidraw
+/home/csl/Desktop/ndss_data/excalidraw/ ACCESS Untitled-2022-11-07-1920.excalidraw
+/home/csl/Desktop/ndss_data/excalidraw/ CLOSE_NOWRITE,CLOSE Untitled-2022-11-07-1920.excalidraw
+/home/csl/Desktop/ndss_data/excalidraw/ OPEN Untitled-2022-11-07-1920.excalidraw
+/home/csl/Desktop/ndss_data/excalidraw/ ACCESS Untitled-2022-11-07-1920.excalidraw
+/home/csl/Desktop/ndss_data/excalidraw/ CLOSE_NOWRITE,CLOSE Untitled-2022-11-07-1920.excalidraw
+/home/csl/Desktop/ndss_data/excalidraw/ OPEN Untitled-2022-11-07-1920.excalidraw
+/home/csl/Desktop/ndss_data/excalidraw/ ACCESS Untitled-2022-11-07-1920.excalidraw
+/home/csl/Desktop/ndss_data/excalidraw/ CLOSE_NOWRITE,CLOSE Untitled-2022-11-07-1920.excalidraw
+/home/csl/Desktop/ndss_data/excalidraw/ CREATE Untitled-2022-11-07-1920.excalidraw.crswap
+/home/csl/Desktop/ndss_data/excalidraw/ OPEN Untitled-2022-11-07-1920.excalidraw.crswap
+/home/csl/Desktop/ndss_data/excalidraw/ CLOSE_NOWRITE,CLOSE Untitled-2022-11-07-1920.excalidraw.crswap
+/home/csl/Desktop/ndss_data/excalidraw/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/excalidraw/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/excalidraw/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/excalidraw/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/excalidraw/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/excalidraw/ OPEN Untitled-2022-11-07-1920.excalidraw.crswap
+/home/csl/Desktop/ndss_data/excalidraw/ MODIFY Untitled-2022-11-07-1920.excalidraw.crswap
+/home/csl/Desktop/ndss_data/excalidraw/ CLOSE_WRITE,CLOSE Untitled-2022-11-07-1920.excalidraw.crswap
+/home/csl/Desktop/ndss_data/excalidraw/ OPEN Untitled-2022-11-07-1920.excalidraw.crswap
+/home/csl/Desktop/ndss_data/excalidraw/ OPEN Untitled-2022-11-07-1920.excalidraw.crswap
+/home/csl/Desktop/ndss_data/excalidraw/ ACCESS Untitled-2022-11-07-1920.excalidraw.crswap
+/home/csl/Desktop/ndss_data/excalidraw/ CLOSE_NOWRITE,CLOSE Untitled-2022-11-07-1920.excalidraw.crswap
+/home/csl/Desktop/ndss_data/excalidraw/ ACCESS Untitled-2022-11-07-1920.excalidraw.crswap
+/home/csl/Desktop/ndss_data/excalidraw/ CLOSE_NOWRITE,CLOSE Untitled-2022-11-07-1920.excalidraw.crswap
+/home/csl/Desktop/ndss_data/excalidraw/ OPEN Untitled-2022-11-07-1920.excalidraw.crswap
+/home/csl/Desktop/ndss_data/excalidraw/ CLOSE_NOWRITE,CLOSE Untitled-2022-11-07-1920.excalidraw.crswap
+/home/csl/Desktop/ndss_data/excalidraw/ OPEN Untitled-2022-11-07-1920.excalidraw.crswap
+/home/csl/Desktop/ndss_data/excalidraw/ ACCESS Untitled-2022-11-07-1920.excalidraw.crswap
+/home/csl/Desktop/ndss_data/excalidraw/ CLOSE_NOWRITE,CLOSE Untitled-2022-11-07-1920.excalidraw.crswap
+/home/csl/Desktop/ndss_data/excalidraw/ MOVED_FROM Untitled-2022-11-07-1920.excalidraw.crswap
+/home/csl/Desktop/ndss_data/excalidraw/ MOVED_TO Untitled-2022-11-07-1920.excalidraw
+/home/csl/Desktop/ndss_data/excalidraw/ ATTRIB Untitled-2022-11-07-1920.excalidraw
+/home/csl/Desktop/ndss_data/excalidraw/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/excalidraw/ OPEN Untitled-2022-11-07-1920.excalidraw
+/home/csl/Desktop/ndss_data/excalidraw/ ACCESS Untitled-2022-11-07-1920.excalidraw
+/home/csl/Desktop/ndss_data/excalidraw/ CLOSE_NOWRITE,CLOSE Untitled-2022-11-07-1920.excalidraw
+/home/csl/Desktop/ndss_data/excalidraw/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/excalidraw/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/excalidraw/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/excalidraw/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/excalidraw/ OPEN Untitled-2022-11-07-1920.excalidraw
+/home/csl/Desktop/ndss_data/excalidraw/ ACCESS Untitled-2022-11-07-1920.excalidraw
+/home/csl/Desktop/ndss_data/excalidraw/ CLOSE_NOWRITE,CLOSE Untitled-2022-11-07-1920.excalidraw
+/home/csl/Desktop/ndss_data/excalidraw/ OPEN Untitled-2022-11-07-1920.excalidraw
+/home/csl/Desktop/ndss_data/excalidraw/ ACCESS Untitled-2022-11-07-1920.excalidraw
+/home/csl/Desktop/ndss_data/excalidraw/ CLOSE_NOWRITE,CLOSE Untitled-2022-11-07-1920.excalidraw
+

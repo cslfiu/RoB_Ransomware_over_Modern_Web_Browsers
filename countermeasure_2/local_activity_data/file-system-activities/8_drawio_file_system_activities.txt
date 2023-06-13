@@ -1,0 +1,92 @@
+/home/csl/Desktop/ndss_data/draw.io/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ CREATE test.io
+/home/csl/Desktop/ndss_data/draw.io/ OPEN test.io
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE test.io
+/home/csl/Desktop/ndss_data/draw.io/ OPEN test.io
+/home/csl/Desktop/ndss_data/draw.io/ MODIFY test.io
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_WRITE,CLOSE test.io
+/home/csl/Desktop/ndss_data/draw.io/ CREATE test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ OPEN test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ OPEN test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ MODIFY test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_WRITE,CLOSE test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ OPEN test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ OPEN test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ OPEN test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ OPEN test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ MOVED_FROM test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ MOVED_TO test.io
+/home/csl/Desktop/ndss_data/draw.io/ ATTRIB test.io
+/home/csl/Desktop/ndss_data/draw.io/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ OPEN test.io
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS test.io
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE test.io
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ OPEN test.io
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS test.io
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE test.io
+/home/csl/Desktop/ndss_data/draw.io/ OPEN test.io
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS test.io
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE test.io
+/home/csl/Desktop/ndss_data/draw.io/ CREATE test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ OPEN test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ OPEN test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ MODIFY test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_WRITE,CLOSE test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ OPEN test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ OPEN test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ OPEN test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ OPEN test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ MOVED_FROM test.io.crswap
+/home/csl/Desktop/ndss_data/draw.io/ MOVED_TO test.io
+/home/csl/Desktop/ndss_data/draw.io/ ATTRIB test.io
+/home/csl/Desktop/ndss_data/draw.io/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ OPEN test.io
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS test.io
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE test.io
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/draw.io/ OPEN test.io
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS test.io
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE test.io
+/home/csl/Desktop/ndss_data/draw.io/ OPEN test.io
+/home/csl/Desktop/ndss_data/draw.io/ ACCESS test.io
+/home/csl/Desktop/ndss_data/draw.io/ CLOSE_NOWRITE,CLOSE test.io
+

@@ -1,0 +1,99 @@
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ CREATE pristine-poetry.md
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN pristine-poetry.md
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE pristine-poetry.md
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ CREATE pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ MODIFY pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_WRITE,CLOSE pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ MOVED_FROM pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ MOVED_TO pristine-poetry.md
+/home/csl/Desktop/ndss_data/bangle.io/ ATTRIB pristine-poetry.md
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN pristine-poetry.md
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS pristine-poetry.md
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE pristine-poetry.md
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN pristine-poetry.md
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS pristine-poetry.md
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE pristine-poetry.md
+/home/csl/Desktop/ndss_data/bangle.io/ CREATE pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ MODIFY pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_WRITE,CLOSE pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ MOVED_FROM pristine-poetry.md.crswap
+/home/csl/Desktop/ndss_data/bangle.io/ MOVED_TO pristine-poetry.md
+/home/csl/Desktop/ndss_data/bangle.io/ ATTRIB pristine-poetry.md
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN pristine-poetry.md
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS pristine-poetry.md
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE pristine-poetry.md
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN pristine-poetry.md
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS pristine-poetry.md
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE pristine-poetry.md
+/home/csl/Desktop/ndss_data/bangle.io/ OPEN pristine-poetry.md
+/home/csl/Desktop/ndss_data/bangle.io/ ACCESS pristine-poetry.md
+/home/csl/Desktop/ndss_data/bangle.io/ CLOSE_NOWRITE,CLOSE pristine-poetry.md
+

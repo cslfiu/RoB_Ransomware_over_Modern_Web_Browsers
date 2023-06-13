@@ -1,0 +1,100 @@
+/home/csl/Desktop/rans_test/ OPEN,ISDIR 
+/home/csl/Desktop/rans_test/ ACCESS,ISDIR 
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/rans_test/ OPEN test.txt
+/home/csl/Desktop/rans_test/ ACCESS test.txt
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test.txt
+/home/csl/Desktop/rans_test/ OPEN test (3rd copy).txt
+/home/csl/Desktop/rans_test/ ACCESS test (3rd copy).txt
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test (3rd copy).txt
+/home/csl/Desktop/rans_test/ OPEN test (copy).txt
+/home/csl/Desktop/rans_test/ ACCESS test (copy).txt
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test (copy).txt
+/home/csl/Desktop/rans_test/ OPEN test (another copy).txt
+/home/csl/Desktop/rans_test/ ACCESS test (another copy).txt
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test (another copy).txt
+/home/csl/Desktop/rans_test/ CREATE test.txt.crswap
+/home/csl/Desktop/rans_test/ OPEN test.txt.crswap
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test.txt.crswap
+/home/csl/Desktop/rans_test/ CREATE test (3rd copy).txt.crswap
+/home/csl/Desktop/rans_test/ OPEN test (3rd copy).txt.crswap
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test (3rd copy).txt.crswap
+/home/csl/Desktop/rans_test/ CREATE test (copy).txt.crswap
+/home/csl/Desktop/rans_test/ OPEN test (copy).txt.crswap
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test (copy).txt.crswap
+/home/csl/Desktop/rans_test/ CREATE test (another copy).txt.crswap
+/home/csl/Desktop/rans_test/ OPEN test (another copy).txt.crswap
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test (another copy).txt.crswap
+/home/csl/Desktop/rans_test/ OPEN test.txt
+/home/csl/Desktop/rans_test/ ACCESS test.txt
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test.txt
+/home/csl/Desktop/rans_test/ OPEN test (3rd copy).txt
+/home/csl/Desktop/rans_test/ ACCESS test (3rd copy).txt
+/home/csl/Desktop/rans_test/ OPEN test (copy).txt
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test (3rd copy).txt
+/home/csl/Desktop/rans_test/ ACCESS test (copy).txt
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test (copy).txt
+/home/csl/Desktop/rans_test/ OPEN test (another copy).txt
+/home/csl/Desktop/rans_test/ ACCESS test (another copy).txt
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test (another copy).txt
+/home/csl/Desktop/rans_test/ OPEN test.txt.crswap
+/home/csl/Desktop/rans_test/ MODIFY test.txt.crswap
+/home/csl/Desktop/rans_test/ CLOSE_WRITE,CLOSE test.txt.crswap
+/home/csl/Desktop/rans_test/ OPEN test.txt.crswap
+/home/csl/Desktop/rans_test/ ACCESS test.txt.crswap
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test.txt.crswap
+/home/csl/Desktop/rans_test/ OPEN test (3rd copy).txt.crswap
+/home/csl/Desktop/rans_test/ MODIFY test (3rd copy).txt.crswap
+/home/csl/Desktop/rans_test/ CLOSE_WRITE,CLOSE test (3rd copy).txt.crswap
+/home/csl/Desktop/rans_test/ OPEN test (3rd copy).txt.crswap
+/home/csl/Desktop/rans_test/ ACCESS test (3rd copy).txt.crswap
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test (3rd copy).txt.crswap
+/home/csl/Desktop/rans_test/ OPEN test (copy).txt.crswap
+/home/csl/Desktop/rans_test/ MODIFY test (copy).txt.crswap
+/home/csl/Desktop/rans_test/ CLOSE_WRITE,CLOSE test (copy).txt.crswap
+/home/csl/Desktop/rans_test/ OPEN test (copy).txt.crswap
+/home/csl/Desktop/rans_test/ ACCESS test (copy).txt.crswap
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test (copy).txt.crswap
+/home/csl/Desktop/rans_test/ OPEN test.txt.crswap
+/home/csl/Desktop/rans_test/ ACCESS test.txt.crswap
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test.txt.crswap
+/home/csl/Desktop/rans_test/ OPEN test (another copy).txt.crswap
+/home/csl/Desktop/rans_test/ MODIFY test (another copy).txt.crswap
+/home/csl/Desktop/rans_test/ MOVED_FROM test.txt.crswap
+/home/csl/Desktop/rans_test/ MOVED_TO test.txt
+/home/csl/Desktop/rans_test/ ATTRIB test.txt
+/home/csl/Desktop/rans_test/ CLOSE_WRITE,CLOSE test (another copy).txt.crswap
+/home/csl/Desktop/rans_test/ OPEN test (3rd copy).txt.crswap
+/home/csl/Desktop/rans_test/ OPEN test (copy).txt.crswap
+/home/csl/Desktop/rans_test/ ACCESS test (3rd copy).txt.crswap
+/home/csl/Desktop/rans_test/ OPEN test (another copy).txt.crswap
+/home/csl/Desktop/rans_test/ ACCESS test (copy).txt.crswap
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test (3rd copy).txt.crswap
+/home/csl/Desktop/rans_test/ ACCESS test (another copy).txt.crswap
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test (copy).txt.crswap
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test (another copy).txt.crswap
+/home/csl/Desktop/rans_test/ OPEN test (another copy).txt.crswap
+/home/csl/Desktop/rans_test/ ACCESS test (another copy).txt.crswap
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test (another copy).txt.crswap
+/home/csl/Desktop/rans_test/ MOVED_FROM test (3rd copy).txt.crswap
+/home/csl/Desktop/rans_test/ MOVED_TO test (3rd copy).txt
+/home/csl/Desktop/rans_test/ ATTRIB test (3rd copy).txt
+/home/csl/Desktop/rans_test/ MOVED_FROM test (copy).txt.crswap
+/home/csl/Desktop/rans_test/ MOVED_TO test (copy).txt
+/home/csl/Desktop/rans_test/ ATTRIB test (copy).txt
+/home/csl/Desktop/rans_test/ MOVED_FROM test (another copy).txt.crswap
+/home/csl/Desktop/rans_test/ MOVED_TO test (another copy).txt
+/home/csl/Desktop/rans_test/ ATTRIB test (another copy).txt
+/home/csl/Desktop/rans_test/ OPEN test.txt
+/home/csl/Desktop/rans_test/ ACCESS test.txt
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test.txt
+/home/csl/Desktop/rans_test/ OPEN test (copy).txt
+/home/csl/Desktop/rans_test/ ACCESS test (copy).txt
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test (copy).txt
+/home/csl/Desktop/rans_test/ OPEN test (another copy).txt
+/home/csl/Desktop/rans_test/ ACCESS test (another copy).txt
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test (another copy).txt
+/home/csl/Desktop/rans_test/ OPEN test (3rd copy).txt
+/home/csl/Desktop/rans_test/ ACCESS test (3rd copy).txt
+/home/csl/Desktop/rans_test/ CLOSE_NOWRITE,CLOSE test (3rd copy).txt
+

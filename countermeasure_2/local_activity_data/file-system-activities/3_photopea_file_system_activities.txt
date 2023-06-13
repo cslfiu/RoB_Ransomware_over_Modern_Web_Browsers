@@ -1,0 +1,42 @@
+/home/csl/Desktop/ndss_data/photobea/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/photobea/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/photobea/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/photobea/ OPEN download.png
+/home/csl/Desktop/ndss_data/photobea/ ACCESS download.png
+/home/csl/Desktop/ndss_data/photobea/ CLOSE_NOWRITE,CLOSE download.png
+/home/csl/Desktop/ndss_data/photobea/ OPEN download.png
+/home/csl/Desktop/ndss_data/photobea/ ACCESS download.png
+/home/csl/Desktop/ndss_data/photobea/ CLOSE_NOWRITE,CLOSE download.png
+/home/csl/Desktop/ndss_data/photobea/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/photobea/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/photobea/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/photobea/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/photobea/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/photobea/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/photobea/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/photobea/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/photobea/ CREATE download.png.crswap
+/home/csl/Desktop/ndss_data/photobea/ OPEN download.png.crswap
+/home/csl/Desktop/ndss_data/photobea/ CLOSE_NOWRITE,CLOSE download.png.crswap
+/home/csl/Desktop/ndss_data/photobea/ OPEN download.png.crswap
+/home/csl/Desktop/ndss_data/photobea/ MODIFY download.png.crswap
+/home/csl/Desktop/ndss_data/photobea/ CLOSE_WRITE,CLOSE download.png.crswap
+/home/csl/Desktop/ndss_data/photobea/ OPEN download.png.crswap
+/home/csl/Desktop/ndss_data/photobea/ ACCESS download.png.crswap
+/home/csl/Desktop/ndss_data/photobea/ CLOSE_NOWRITE,CLOSE download.png.crswap
+/home/csl/Desktop/ndss_data/photobea/ OPEN download.png.crswap
+/home/csl/Desktop/ndss_data/photobea/ ACCESS download.png.crswap
+/home/csl/Desktop/ndss_data/photobea/ CLOSE_NOWRITE,CLOSE download.png.crswap
+/home/csl/Desktop/ndss_data/photobea/ MOVED_FROM download.png.crswap
+/home/csl/Desktop/ndss_data/photobea/ MOVED_TO download.png
+/home/csl/Desktop/ndss_data/photobea/ ATTRIB download.png
+/home/csl/Desktop/ndss_data/photobea/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/photobea/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/photobea/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/photobea/ OPEN download.png
+/home/csl/Desktop/ndss_data/photobea/ ACCESS download.png
+/home/csl/Desktop/ndss_data/photobea/ CLOSE_NOWRITE,CLOSE download.png
+/home/csl/Desktop/ndss_data/photobea/ OPEN download.png
+/home/csl/Desktop/ndss_data/photobea/ ACCESS download.png
+/home/csl/Desktop/ndss_data/photobea/ ACCESS download.png
+/home/csl/Desktop/ndss_data/photobea/ CLOSE_NOWRITE,CLOSE download.png

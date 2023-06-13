@@ -1,0 +1,15 @@
+getFile() test.svg
+Write() test.svg
+Write.Close() test.svg
+getFile() test.svg
+Write() test.svg
+Write.Close() test.svg
+getFile() test.svg
+Write() test.svg
+Write.Close() test.svg
+getFile() test.svg
+Write() test.svg
+Write.Close() test.svg
+getFile() test.svg
+Write() test.svg
+Write.Close() test.svg

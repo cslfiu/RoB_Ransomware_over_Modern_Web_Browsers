@@ -1,0 +1,9 @@
+getFile() test1.txt
+Write() test1.txt
+Write.Close() test1.txt
+getFile() test1.txt
+Write() test1.txt
+Write.Close() test1.txt
+getFile() test1.txt
+Write() test1.txt
+Write.Close() test1.txt

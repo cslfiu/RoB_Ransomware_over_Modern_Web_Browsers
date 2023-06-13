@@ -1,0 +1,34 @@
+/home/csl/Desktop/ndss_data/vscode/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/vscode/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/vscode/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/vscode/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/vscode/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/vscode/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/vscode/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/vscode/ CREATE test.py.crswap
+/home/csl/Desktop/ndss_data/vscode/ OPEN test.py.crswap
+/home/csl/Desktop/ndss_data/vscode/ CLOSE_NOWRITE,CLOSE test.py.crswap
+/home/csl/Desktop/ndss_data/vscode/ OPEN test.py.crswap
+/home/csl/Desktop/ndss_data/vscode/ MODIFY test.py.crswap
+/home/csl/Desktop/ndss_data/vscode/ CLOSE_WRITE,CLOSE test.py.crswap
+/home/csl/Desktop/ndss_data/vscode/ OPEN test.py.crswap
+/home/csl/Desktop/ndss_data/vscode/ ACCESS test.py.crswap
+/home/csl/Desktop/ndss_data/vscode/ CLOSE_NOWRITE,CLOSE test.py.crswap
+/home/csl/Desktop/ndss_data/vscode/ OPEN test.py.crswap
+/home/csl/Desktop/ndss_data/vscode/ CLOSE_NOWRITE,CLOSE test.py.crswap
+/home/csl/Desktop/ndss_data/vscode/ OPEN test.py.crswap
+/home/csl/Desktop/ndss_data/vscode/ ACCESS test.py.crswap
+/home/csl/Desktop/ndss_data/vscode/ CLOSE_NOWRITE,CLOSE test.py.crswap
+/home/csl/Desktop/ndss_data/vscode/ MOVED_FROM test.py.crswap
+/home/csl/Desktop/ndss_data/vscode/ MOVED_TO test.py
+/home/csl/Desktop/ndss_data/vscode/ ATTRIB test.py
+/home/csl/Desktop/ndss_data/vscode/ OPEN test.py
+/home/csl/Desktop/ndss_data/vscode/ ACCESS test.py
+/home/csl/Desktop/ndss_data/vscode/ CLOSE_NOWRITE,CLOSE test.py
+/home/csl/Desktop/ndss_data/vscode/ OPEN test.py
+/home/csl/Desktop/ndss_data/vscode/ ACCESS test.py
+/home/csl/Desktop/ndss_data/vscode/ CLOSE_NOWRITE,CLOSE test.py
+/home/csl/Desktop/ndss_data/vscode/ OPEN test.py
+/home/csl/Desktop/ndss_data/vscode/ ACCESS test.py
+/home/csl/Desktop/ndss_data/vscode/ CLOSE_NOWRITE,CLOSE test.py
+

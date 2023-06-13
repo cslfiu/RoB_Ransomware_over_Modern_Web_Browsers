@@ -1,0 +1,34 @@
+/home/csl/Desktop/ndss_data/github/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/github/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/github/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/github/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/github/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/github/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/github/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/github/ CREATE test.py.crswap
+/home/csl/Desktop/ndss_data/github/ OPEN test.py.crswap
+/home/csl/Desktop/ndss_data/github/ CLOSE_NOWRITE,CLOSE test.py.crswap
+/home/csl/Desktop/ndss_data/github/ OPEN test.py.crswap
+/home/csl/Desktop/ndss_data/github/ MODIFY test.py.crswap
+/home/csl/Desktop/ndss_data/github/ CLOSE_WRITE,CLOSE test.py.crswap
+/home/csl/Desktop/ndss_data/github/ OPEN test.py.crswap
+/home/csl/Desktop/ndss_data/github/ ACCESS test.py.crswap
+/home/csl/Desktop/ndss_data/github/ CLOSE_NOWRITE,CLOSE test.py.crswap
+/home/csl/Desktop/ndss_data/github/ OPEN test.py.crswap
+/home/csl/Desktop/ndss_data/github/ CLOSE_NOWRITE,CLOSE test.py.crswap
+/home/csl/Desktop/ndss_data/github/ OPEN test.py.crswap
+/home/csl/Desktop/ndss_data/github/ ACCESS test.py.crswap
+/home/csl/Desktop/ndss_data/github/ CLOSE_NOWRITE,CLOSE test.py.crswap
+/home/csl/Desktop/ndss_data/github/ MOVED_FROM test.py.crswap
+/home/csl/Desktop/ndss_data/github/ MOVED_TO test.py
+/home/csl/Desktop/ndss_data/github/ ATTRIB test.py
+/home/csl/Desktop/ndss_data/github/ OPEN test.py
+/home/csl/Desktop/ndss_data/github/ ACCESS test.py
+/home/csl/Desktop/ndss_data/github/ CLOSE_NOWRITE,CLOSE test.py
+/home/csl/Desktop/ndss_data/github/ OPEN test.py
+/home/csl/Desktop/ndss_data/github/ ACCESS test.py
+/home/csl/Desktop/ndss_data/github/ CLOSE_NOWRITE,CLOSE test.py
+/home/csl/Desktop/ndss_data/github/ OPEN test.py
+/home/csl/Desktop/ndss_data/github/ ACCESS test.py
+/home/csl/Desktop/ndss_data/github/ CLOSE_NOWRITE,CLOSE test.py
+

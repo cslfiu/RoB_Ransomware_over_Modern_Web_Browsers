@@ -1,0 +1,65 @@
+/home/csl/Desktop/ndss_data/text_editor_demo/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ OPEN test.txt
+/home/csl/Desktop/ndss_data/text_editor_demo/ ACCESS test.txt
+/home/csl/Desktop/ndss_data/text_editor_demo/ CLOSE_NOWRITE,CLOSE test.txt
+/home/csl/Desktop/ndss_data/text_editor_demo/ OPEN test.txt
+/home/csl/Desktop/ndss_data/text_editor_demo/ ACCESS test.txt
+/home/csl/Desktop/ndss_data/text_editor_demo/ CLOSE_NOWRITE,CLOSE test.txt
+/home/csl/Desktop/ndss_data/text_editor_demo/ CREATE test.txt.crswap
+/home/csl/Desktop/ndss_data/text_editor_demo/ OPEN test.txt.crswap
+/home/csl/Desktop/ndss_data/text_editor_demo/ CLOSE_NOWRITE,CLOSE test.txt.crswap
+/home/csl/Desktop/ndss_data/text_editor_demo/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ OPEN test.txt.crswap
+/home/csl/Desktop/ndss_data/text_editor_demo/ MODIFY test.txt.crswap
+/home/csl/Desktop/ndss_data/text_editor_demo/ CLOSE_WRITE,CLOSE test.txt.crswap
+/home/csl/Desktop/ndss_data/text_editor_demo/ OPEN test.txt.crswap
+/home/csl/Desktop/ndss_data/text_editor_demo/ ACCESS test.txt.crswap
+/home/csl/Desktop/ndss_data/text_editor_demo/ CLOSE_NOWRITE,CLOSE test.txt.crswap
+/home/csl/Desktop/ndss_data/text_editor_demo/ OPEN test.txt.crswap
+/home/csl/Desktop/ndss_data/text_editor_demo/ ACCESS test.txt.crswap
+/home/csl/Desktop/ndss_data/text_editor_demo/ CLOSE_NOWRITE,CLOSE test.txt.crswap
+/home/csl/Desktop/ndss_data/text_editor_demo/ MOVED_FROM test.txt.crswap
+/home/csl/Desktop/ndss_data/text_editor_demo/ MOVED_TO test.txt
+/home/csl/Desktop/ndss_data/text_editor_demo/ ATTRIB test.txt
+/home/csl/Desktop/ndss_data/text_editor_demo/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ OPEN test.txt
+/home/csl/Desktop/ndss_data/text_editor_demo/ ACCESS test.txt
+/home/csl/Desktop/ndss_data/text_editor_demo/ CLOSE_NOWRITE,CLOSE test.txt
+/home/csl/Desktop/ndss_data/text_editor_demo/ CREATE test.txt.crswap
+/home/csl/Desktop/ndss_data/text_editor_demo/ OPEN test.txt.crswap
+/home/csl/Desktop/ndss_data/text_editor_demo/ CLOSE_NOWRITE,CLOSE test.txt.crswap
+/home/csl/Desktop/ndss_data/text_editor_demo/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ OPEN test.txt.crswap
+/home/csl/Desktop/ndss_data/text_editor_demo/ MODIFY test.txt.crswap
+/home/csl/Desktop/ndss_data/text_editor_demo/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ CLOSE_WRITE,CLOSE test.txt.crswap
+/home/csl/Desktop/ndss_data/text_editor_demo/ OPEN test.txt.crswap
+/home/csl/Desktop/ndss_data/text_editor_demo/ ACCESS test.txt.crswap
+/home/csl/Desktop/ndss_data/text_editor_demo/ CLOSE_NOWRITE,CLOSE test.txt.crswap
+/home/csl/Desktop/ndss_data/text_editor_demo/ MOVED_FROM test.txt.crswap
+/home/csl/Desktop/ndss_data/text_editor_demo/ MOVED_TO test.txt
+/home/csl/Desktop/ndss_data/text_editor_demo/ ATTRIB test.txt
+/home/csl/Desktop/ndss_data/text_editor_demo/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ OPEN,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ ACCESS,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/home/csl/Desktop/ndss_data/text_editor_demo/ OPEN test.txt
+/home/csl/Desktop/ndss_data/text_editor_demo/ ACCESS test.txt
+/home/csl/Desktop/ndss_data/text_editor_demo/ CLOSE_NOWRITE,CLOSE test.txt
+
