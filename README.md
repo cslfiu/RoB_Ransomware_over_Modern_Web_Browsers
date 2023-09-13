@@ -1,5 +1,5 @@
 # RøB: Ransomware over Modern Web Browsers
-This repository contains the code used in the academic paper, RøB: Ransomware over Modern Web Browsers, which is accepted for publication at USENIX Security 2023. You can check out the full paper from [here](https://www.usenix.org/conference/usenixsecurity23/presentation/oz)
+This repository contains the code used in the academic paper, RøB: Ransomware over Modern Web Browsers, which is accepted for publication at USENIX Security 2023. You can check out the full paper from [here](https://www.usenix.org/conference/usenixsecurity23/presentation/oz).
 
 ## Citing this work
 
